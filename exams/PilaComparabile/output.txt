@@ -1,0 +1,25 @@
+***TOTALSIZE SM1 6
+***SM1***
+A
+B
+C
+D
+E
+F
+***TOTALSIZE SM1 0
+***TOTALSIZE SM2 6
+***SM2***
+D
+E
+F
+A
+B
+C
+***TOTALSIZE SM2 0
+***SORT***
+A
+B
+C
+D
+E
+F
